@@ -1,1 +1,4 @@
 # urlShortener
+i HAVE MAKE THE URL SHORTENER WEBSITE HERE WE USER CAN SHORT THE LONG URL IN SHORT AND RENDER TO THE SAME PAGE  I HAVE MENTION SOME IMAGE YOU CAN SEE AS WELL
+
+the deplpoy link :   https://url-shortener-mauve-nine.vercel.app/
